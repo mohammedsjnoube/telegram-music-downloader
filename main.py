@@ -13,7 +13,7 @@ import logging
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TOKEN = os.environ.get("928105941:AAGJq3A3KEJpg0HSwhThWANeJ_MgQkSIYbE")
 
 dwn_msg = "/d youtube_video_url to download audio."
 srch_msg = "/s text to search for audio."
